@@ -1,0 +1,7 @@
+-classpath 'C:\\Users\\chyupa\\Documents\\Android Apps\\ud867\\FinalProject\\backend\\build\\classes\\main;C:\\Users\\chyupa\\Documents\\Android Apps\\ud867\\FinalProject\\backend\\build\\resources\\main;C:\\Users\\chyupa\\.gradle\\caches\\modules-2\\files-2.1\\com.google.appengine\\appengine-endpoints\\1.9.18\\7fb7b64f5e6ef9c79d34229fc42b2bebc94a73b6\\appengine-endpoints-1.9.18.jar;C:\\Users\\chyupa\\.gradle\\caches\\modules-2\\files-2.1\\com.google.appengine\\appengine-endpoints-deps\\1.9.18\\c870c4c9d89cb76edf38c440ec30145d4df33435\\appengine-endpoints-deps-1.9.18.jar;C:\\Users\\chyupa\\.gradle\\caches\\modules-2\\files-2.1\\javax.servlet\\servlet-api\\2.5\\5959582d97d8b61f4d154ca9e495aafd16726e34\\servlet-api-2.5.jar;C:\\Users\\chyupa\\Documents\\Android Apps\\ud867\\FinalProject\\jokelibrary\\build\\libs\\jokelibrary.jar;C:\\Users\\chyupa\\.gradle\\caches\\modules-2\\files-2.1\\com.google.appengine\\appengine-api-1.0-sdk\\1.9.18\\831d0186441861511cb2d5d3ed5983f352c2d6f1\\appengine-api-1.0-sdk-1.9.18.jar'
+-d 'C:\\Users\\chyupa\\Documents\\Android Apps\\ud867\\FinalProject\\backend\\build\\docs\\javadoc'
+-doctitle 'backend API'
+-quiet 
+-windowtitle 'backend API'
+'C:\\Users\\chyupa\\Documents\\Android Apps\\ud867\\FinalProject\\backend\\src\\main\\java\\com\\example\\chyupa\\myapplication\\backend\\MyBean.java'
+'C:\\Users\\chyupa\\Documents\\Android Apps\\ud867\\FinalProject\\backend\\src\\main\\java\\com\\example\\chyupa\\myapplication\\backend\\MyEndpoint.java'
