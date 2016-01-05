@@ -50,12 +50,8 @@ public class ApplicationTest extends ApplicationTestCase<Application> {
                 .execute();
         signal.await();
 
-        assertEquals("Chuck Norris has no living enemies.", joke);
         assertTrue(!joke.isEmpty());
     }
-
-
-
 }
 
 class EndpointsAsyncTask extends AsyncTask<Context, Void, String> {
@@ -92,8 +88,6 @@ class EndpointsAsyncTask extends AsyncTask<Context, Void, String> {
             myApiService = builder.build();
         }
         try {
-//                joke =  myApiService.getJoke().execute().getData();
-//                assertEquals("ttt", joke);
             return myApiService.getJoke().execute().getData();
         } catch (IOException e) {
             return e.getMessage();
