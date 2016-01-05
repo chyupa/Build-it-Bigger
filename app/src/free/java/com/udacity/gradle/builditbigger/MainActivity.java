@@ -79,7 +79,7 @@ public class MainActivity extends ActionBarActivity {
              */
             @Override
             public void onAdFailedToLoad(int errorCode) {
-                Toast.makeText(getApplicationContext(), errorCode, Toast.LENGTH_LONG).show();
+//                Toast.makeText(getApplicationContext(), errorCode, Toast.LENGTH_LONG).show();
             }
         });
 

@@ -19,10 +19,10 @@ allprojects {
 
 }
 
-task runAndroidTests {
-    mustRunAfter ':backend:appengineRun'
-    dependsOn ':app:connectedAndroidTestDebug'
-    doLast {
-        dependsOn 'backend:appengineStop'
-    }
-}
+//task runAndroidTests {
+//    mustRunAfter ':backend:appengineRun'
+//    dependsOn ':app:connectedAndroidTestDebug'
+//    doLast {
+//        dependsOn 'backend:appengineStop'
+//    }
+//}
